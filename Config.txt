@@ -3,3 +3,7 @@ npm init -y
 npm install express mysql cors body-parser
 
 node app.js -> para iniciar a aplicação
+
+
+
+MYSQL Workbench > menu SERVER > Data Import > Importar a pasta BANCO.
